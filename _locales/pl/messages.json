@@ -1,0 +1,14 @@
+{
+    "extensionName": {
+        "message": "Skupiać",
+        "description": "The name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Zdjąć umieszczony na pytania StackOverflow.",
+        "description": "The description of the extension."
+    },
+    "extensionVersionName": {
+        "message": "Pierwsza wersja.",
+        "description": "The name of the extension version."
+    }
+}

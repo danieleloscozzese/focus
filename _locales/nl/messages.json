@@ -1,0 +1,14 @@
+{
+    "extensionName": {
+        "message": "Focus",
+        "description": "The name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Verwijder de gekoppelde vragen van StackOverflow.",
+        "description": "The description of the extension."
+    },
+    "extensionVersionName": {
+        "message": "De eerste versie.",
+        "description": "The name of the extension version."
+    }
+}

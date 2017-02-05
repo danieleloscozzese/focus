@@ -1,0 +1,31 @@
+{
+    "manifest_version": 2,
+    "name": "__MSG_extensionName__",
+    "version": "1.2.0.0",
+    "default_locale": "en_US",
+    "description": "__MSG_extensionDescription__",
+    "author": "Daniel Arthur Gallagher",
+    "icons": {
+        "16": "16.png",
+        "32": "32.png",
+        "48": "48.png",
+        "64": "64.png",
+        "128": "128.png",
+        "256": "256.png",
+        "512": "512.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.stackoverflow.com/questions/*"
+            ],
+            "css": [
+                "hide-sidebar.css"
+            ]
+        }
+    ],
+    "content_security_policy": "default-src 'none'; style-src 'self'; script-src 'self'; object-src 'none'",
+    "developer": {
+        "name": "Daniel Arthur Gallagher"
+    }
+}

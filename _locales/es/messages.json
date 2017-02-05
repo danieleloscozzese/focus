@@ -1,0 +1,14 @@
+{
+    "extensionName": {
+        "message": "Atención",
+        "description": "The name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Quite las preguntas vinculadas de StackOverflow.",
+        "description": "The description of the extension."
+    },
+    "extensionVersionName": {
+        "message": "La primera versión.",
+        "description": "The name of the extension version."
+    }
+}

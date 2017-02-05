@@ -1,0 +1,14 @@
+{
+    "extensionName": {
+        "message": "Concentrer",
+        "description": "The name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Supprimez les questions liées à StackOverflow.",
+        "description": "The description of the extension."
+    },
+    "extensionVersionName": {
+        "message": "La première version.",
+        "description": "The name of the extension version."
+    }
+}
