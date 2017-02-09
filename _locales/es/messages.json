@@ -1,14 +1,14 @@
 {
     "extensionName": {
-        "message": "Atención",
+        "message": "Concéntrate",
         "description": "The name of the extension."
     },
     "extensionDescription": {
-        "message": "Quite las preguntas vinculadas de StackOverflow.",
+        "message": "Elimina las preguntas relacionadas de StackOverflow.",
         "description": "The description of the extension."
     },
     "extensionVersionName": {
-        "message": "La primera versión.",
+        "message": "Versión inicial.",
         "description": "The name of the extension version."
     }
 }
