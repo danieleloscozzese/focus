@@ -6,9 +6,5 @@
     "extensionDescription": {
         "message": "Elimina las preguntas relacionadas de StackOverflow.",
         "description": "The description of the extension."
-    },
-    "extensionVersionName": {
-        "message": "Versión inicial.",
-        "description": "The name of the extension version."
     }
 }

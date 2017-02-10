@@ -6,9 +6,5 @@
     "extensionDescription": {
         "message": "Verwijder de gekoppelde vragen van StackOverflow.",
         "description": "The description of the extension."
-    },
-    "extensionVersionName": {
-        "message": "De oorspronkelijke uitgave.",
-        "description": "The name of the extension version."
     }
 }

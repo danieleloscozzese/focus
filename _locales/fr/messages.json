@@ -6,9 +6,5 @@
     "extensionDescription": {
         "message": "Retirez les questions liées de StackOverflow.",
         "description": "The description of the extension."
-    },
-    "extensionVersionName": {
-        "message": "La version initiale.",
-        "description": "The name of the extension version."
     }
 }
