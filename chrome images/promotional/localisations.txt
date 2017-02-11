@@ -1,0 +1,5 @@
+en: Focus on the answers you need
+fr: Se concentrer sur le réponses dont vous avez besoin.
+es: Se centran en las respuestas que necesita.
+pl: Koncentrują się na odpowiedzi, których potrzebujesz.
+nl: Focus op de antwoorden die u nodig hebt.
