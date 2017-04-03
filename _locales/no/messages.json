@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Fokus",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Fjern de koblede spørsmålene fra StackOverflow.",
+    "description": "The description of the extension."
+  }
+}
