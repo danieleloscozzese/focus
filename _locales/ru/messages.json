@@ -1,0 +1,10 @@
+{
+    "extensionName": {
+        "message": "Focus",
+        "description": "The name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Скрывает непосредственно не связанные с темой вопросы на StackOverflow.",
+        "description": "The description of the extension."
+    }
+}
