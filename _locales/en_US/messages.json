@@ -6,9 +6,5 @@
     "extensionDescription": {
         "message": "Remove the linked questions from StackOverflow.",
         "description": "The description of the extension."
-    },
-    "extensionVersionName": {
-        "message": "The initial release.",
-        "description": "The name of the extension version."
     }
 }
