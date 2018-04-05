@@ -29,7 +29,13 @@
     "content_scripts": [
         {
             "matches": [
-                "*://*.stackoverflow.com/questions/*"
+                "*://*.stackoverflow.com/questions/*",
+                "*://*.stackexchange.com/questions/*",
+                "*://serverfault.com/questions/*",
+                "*://superuser.com/questions/*",
+                "*://askubuntu.com/questions/*",
+                "*://stackapps.com/questions/*",
+                "*://mathoverflow.net/questions/*"
             ],
             "css": [
                 "hide-sidebar.css"
