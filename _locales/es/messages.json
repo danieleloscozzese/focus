@@ -4,7 +4,7 @@
         "description": "The name of the extension."
     },
     "extensionDescription": {
-        "message": "Elimina las preguntas relacionadas de StackOverflow.",
+        "message": "Elimina las preguntas relacionadas de StackOverflow y sitios de red relacionados",
         "description": "The description of the extension."
     }
 }

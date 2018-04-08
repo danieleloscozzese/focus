@@ -4,7 +4,7 @@
         "description": "The name of the extension."
     },
     "extensionDescription": {
-        "message": "Entfernen Sie die Fragen von StackOverflow.",
+        "message": "Entfernen Sie die Fragen von StackOverflow und seinen Netzwerkwebsites.",
         "description": "The description of the extension."
     }
 }

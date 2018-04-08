@@ -4,7 +4,7 @@
         "description": "The name of the extension."
     },
     "extensionDescription": {
-        "message": "Remove the linked questions from StackOverflow.",
+        "message": "Remove the linked questions from StackOverflow and related network sites.",
         "description": "The description of the extension."
     }
 }
