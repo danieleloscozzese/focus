@@ -4,7 +4,7 @@
         "description": "The name of the extension."
     },
     "extensionDescription": {
-        "message": "移除StackOverflow上链接的问题。",
+        "message": "移除StackOverflow上链接的问题及其网络网站。",
         "description": "The description of the extension."
     }
 }

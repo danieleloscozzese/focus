@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "__MSG_extensionName__",
-    "version": "1.3.6.0",
+    "version": "1.4.0.0",
     "default_locale": "en_US",
     "description": "__MSG_extensionDescription__",
     "author": "Daniel Arthur Gallagher",
@@ -29,7 +29,13 @@
     "content_scripts": [
         {
             "matches": [
-                "*://*.stackoverflow.com/questions/*"
+                "*://*.stackoverflow.com/questions/*",
+                "*://*.stackexchange.com/questions/*",
+                "*://serverfault.com/questions/*",
+                "*://superuser.com/questions/*",
+                "*://askubuntu.com/questions/*",
+                "*://stackapps.com/questions/*",
+                "*://mathoverflow.net/questions/*"
             ],
             "css": [
                 "hide-sidebar.css"

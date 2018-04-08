@@ -4,7 +4,7 @@
     "description": "The name of the extension."
   },
   "extensionDescription": {
-    "message": "Fjern de koblede spørsmålene fra StackOverflow.",
+    "message": "Fjern de koblede spørsmålene fra StackOverflow og dets nettverkssider.",
     "description": "The description of the extension."
   }
 }
